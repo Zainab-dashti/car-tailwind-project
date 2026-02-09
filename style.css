@@ -1,0 +1,128 @@
+
+.pic{
+    width: 550px;
+    transition: all 3s;
+
+
+}
+.pic:hover{
+    width: 650px;
+    cursor: pointer;
+    transform:scale(1.1) ;
+}
+
+.title{
+   color: #f2c03b;
+   font-size: 25px;
+font-weight: bolder;
+}
+
+nav:hover{
+       color: #f2c03b;
+
+}
+
+nav a:hover{
+    color: #f2c03b;
+}
+.badge{
+    position: relative;
+    top: -150px;
+    transition: all 3s;
+}
+
+.card:hover{
+    border: 2px #f2c03b solid ;
+    cursor: pointer;
+}
+.started{
+    background-color: #f2c03b;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 25px;
+    padding:10px 20px ;
+    box-shadow: 5px 5px 30px rgb(173, 37, 37);
+}
+.started:hover{
+background-color: black;
+color: #f2c03b;
+border: 1px #f2c03b solid;
+cursor: pointer;
+}
+.explore{
+    border-radius: 35px;
+    padding: 10px 35px ;
+    border: 1px rgb(34,38,53) solid;
+}
+.explore:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+    color: black;
+
+}
+.buy{
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.box{
+    border-radius: 10px;
+    width: 480px;
+    transition: all 3s;
+}
+.box:hover{
+    transform: scale(0.9);
+}
+.daba{
+    position: relative;
+    top: -340px;
+}
+.cards{
+    position: relative;
+    top: -200px;
+}
+
+.cars{
+    width: 280px;
+    border-radius: 10px;
+    transition: all 3s;
+}
+.cars:hover{
+    /* width: 290px; */
+    transform: scale(1.1);
+    border: 1px #f2c03b solid;
+}
+.car{
+    width: 300px;
+}
+.content{
+    position: relative;
+    top: -200px;
+}
+.last{
+    width: 800px;
+    transition: all 3s;
+}
+.last:hover{
+    /* width: 900px; */
+    transform:scale(1.1) ;
+    cursor: pointer;
+}
+.name{
+    background-color: rgb(18, 27, 46);
+}
+.send{
+    border-radius: 20px;
+    font-weight: bolder;
+}
+.place{
+    position: relative;
+    top: -280px;
+}
+.footer
+{
+    position: relative;
+    top: -300px;
+}
+
+
